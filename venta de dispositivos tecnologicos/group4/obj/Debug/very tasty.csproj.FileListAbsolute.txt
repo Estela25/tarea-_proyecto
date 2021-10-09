@@ -1,0 +1,26 @@
+C:\Users\MINEDUCYT\Source\Repos\very-tasty\very tasty\bin\Debug\login.accdb
+C:\Users\MINEDUCYT\Source\Repos\very-tasty\very tasty\bin\Debug\very tasty.exe.config
+C:\Users\MINEDUCYT\Source\Repos\very-tasty\very tasty\bin\Debug\very tasty.exe
+C:\Users\MINEDUCYT\Source\Repos\very-tasty\very tasty\bin\Debug\very tasty.pdb
+C:\Users\MINEDUCYT\Source\Repos\very-tasty\very tasty\obj\Debug\very tasty.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Source\Repos\very-tasty\very tasty\obj\Debug\very_tasty.Form1.resources
+C:\Users\MINEDUCYT\Source\Repos\very-tasty\very tasty\obj\Debug\very_tasty.Form3.resources
+C:\Users\MINEDUCYT\Source\Repos\very-tasty\very tasty\obj\Debug\very_tasty.Properties.Resources.resources
+C:\Users\MINEDUCYT\Source\Repos\very-tasty\very tasty\obj\Debug\very tasty.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Source\Repos\very-tasty\very tasty\obj\Debug\very tasty.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Source\Repos\very-tasty\very tasty\obj\Debug\very tasty.exe
+C:\Users\MINEDUCYT\Source\Repos\very-tasty\very tasty\obj\Debug\very tasty.pdb
+C:\Users\MINEDUCYT\Source\Repos\very-tasty\very tasty\obj\Debug\very_tasty.Form2.resources
+C:\Users\orell\Downloads\very-tasty\very tasty\bin\Debug\login.accdb
+C:\Users\orell\Downloads\very-tasty\very tasty\bin\Debug\very tasty.exe.config
+C:\Users\orell\Downloads\very-tasty\very tasty\bin\Debug\very tasty.exe
+C:\Users\orell\Downloads\very-tasty\very tasty\bin\Debug\very tasty.pdb
+C:\Users\orell\Downloads\very-tasty\very tasty\obj\Debug\very tasty.csproj.AssemblyReference.cache
+C:\Users\orell\Downloads\very-tasty\very tasty\obj\Debug\very_tasty.Form1.resources
+C:\Users\orell\Downloads\very-tasty\very tasty\obj\Debug\very_tasty.Form2.resources
+C:\Users\orell\Downloads\very-tasty\very tasty\obj\Debug\very_tasty.Form3.resources
+C:\Users\orell\Downloads\very-tasty\very tasty\obj\Debug\very_tasty.Properties.Resources.resources
+C:\Users\orell\Downloads\very-tasty\very tasty\obj\Debug\very tasty.csproj.GenerateResource.cache
+C:\Users\orell\Downloads\very-tasty\very tasty\obj\Debug\very tasty.csproj.CoreCompileInputs.cache
+C:\Users\orell\Downloads\very-tasty\very tasty\obj\Debug\very tasty.exe
+C:\Users\orell\Downloads\very-tasty\very tasty\obj\Debug\very tasty.pdb
